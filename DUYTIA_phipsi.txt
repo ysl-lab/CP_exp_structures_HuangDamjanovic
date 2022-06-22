@@ -1,0 +1,2 @@
+#DUYTIA_fixed      PHI1      PSI1      PHI2      PSI2      PHI3      PSI3      PHI4      PSI4      PHI5      PSI5
+    -86.781    -25.270   -116.011     -5.959   -166.642    143.402     61.135   -130.479   -130.505 

@@ -1,0 +1,2 @@
+#DASXIE_fixed      PHI1      PSI1      PHI2      PSI2      PHI3      PSI3      PHI4      PSI4      PHI5      PSI5      PHI6      PSI6      PHI7      PSI7      PHI8      PSI8
+     68.286     28.863    -72.307    164.500    -46.220    141.398     74.353     15.794     79.046     28.739    -74.249    172.626    -65.128    150.188     62.672     32.616 

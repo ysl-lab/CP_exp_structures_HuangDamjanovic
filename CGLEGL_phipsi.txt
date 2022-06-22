@@ -1,0 +1,2 @@
+#CGLEGL_fixed      PHI1      PSI1      PHI2      PSI2      PHI3      PSI3      PHI4      PSI4      PHI5      PSI5      PHI6      PSI6
+   -112.229   -174.852    -69.733    -13.649    -97.118      8.714    111.727    169.316     55.726     36.993     94.362     -8.873 

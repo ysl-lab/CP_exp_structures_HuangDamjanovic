@@ -1,0 +1,2 @@
+#CYHEXG_fixed      PHI1      PSI1      PHI2      PSI2      PHI3      PSI3      PHI4      PSI4      PHI5      PSI5      PHI6      PSI6
+    117.673    166.897     68.731     33.228     92.155     -6.918   -119.890   -166.469    -69.339    -29.981    -93.944      8.342 

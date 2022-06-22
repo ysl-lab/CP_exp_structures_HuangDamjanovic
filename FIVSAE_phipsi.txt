@@ -1,0 +1,2 @@
+#FIVSAE_fixed      PHI1      PSI1      PHI2      PSI2      PHI3      PSI3      PHI4      PSI4      PHI5      PSI5
+    103.991   -175.620    -65.492    111.970    104.979     -0.226    125.992    114.757     58.422     65.059 

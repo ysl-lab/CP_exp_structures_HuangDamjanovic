@@ -1,0 +1,2 @@
+#PAPGAP_fixed      PHI1      PSI1      PHI2      PSI2      PHI3      PSI3      PHI4      PSI4      PHI5      PSI5
+     80.935   -125.770    -63.968    128.048     78.352      7.659    135.489    -68.918    -82.167     69.607 
